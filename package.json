@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aula-dio": "file:",
     "lite-server": "^2.6.1"
   },
   "devDependencies": {
